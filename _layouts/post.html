@@ -8,7 +8,7 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }} <small style="color: grey;">{{ page.tags }}</small></h1>
     <p class="post-meta">
       {%- if page.teaser -%}
-        {{ page.teaser }} •
+        {{ page.teaser }} • 
       {%- endif -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
