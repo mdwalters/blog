@@ -1,1 +1,1 @@
-This is my blog!
+Inside the world of M.D.
