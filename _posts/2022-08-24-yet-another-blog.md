@@ -1,3 +1,7 @@
+---
+tags:
+  - blog
+---
 ## Yet Another M.D. Blog
 Uh... Yeah. This is another blog by me.
 
