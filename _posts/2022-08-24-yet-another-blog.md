@@ -5,5 +5,3 @@ tags:
   - blog
 ---
 Uh... Yeah. This is another blog by me.
-
-<sup>I need a life</sup>
