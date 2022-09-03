@@ -1,2 +1,2 @@
-# blog
+# blog.mdwalters.ml
 My blog
