@@ -9,8 +9,8 @@ twitter_username: "MDWalters124"
 github_username: "mdwalters"
 #linkedin_username: "linkedinuser" (yes i have linkedin, but not active)
 
-baseurl: /blog # the subpath of your site, e.g. /blog
-url: https://mdwalters.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://blog.mdwalters.ml # the base hostname & protocol for your site, e.g. http://example.com
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
