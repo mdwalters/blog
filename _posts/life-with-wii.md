@@ -6,4 +6,4 @@ tags:
   - games
   - tech
 ---
-Lorem ispum
+Yes, I still use Wiis. Why? Because nostalgia!
