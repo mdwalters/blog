@@ -7,7 +7,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }} <small style="color: grey;">{{ page.tags }}</small></h1>
     {%- if page.teaser -%}
-      <h2 style="color: grey;">{{ page.teaser }}</h2>
+      <h2 style="color: grey;">{{ page.teaser | escape }}</h2>
     {%- endif -%}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
