@@ -15,7 +15,7 @@ url: https://blog.mdwalters.ml # the base hostname & protocol for your site, e.g
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima" # minima
+theme: "hacker" # minima
 
 rss: rss
 
