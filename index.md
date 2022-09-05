@@ -5,7 +5,7 @@
     <br>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <br>
-    <small style="color: grey;">{% for tag in post.tags %}<span>{{ tag }} </span>{% endfor %}</small>
+    <small style="color: grey;">{% for tag in post.tags %}<span><b>{{ tag }} </b></span>{% endfor %}</small>
     <br>
     {%- if post.teaser -%}
       <small>{{ post.teaser }}</small>
