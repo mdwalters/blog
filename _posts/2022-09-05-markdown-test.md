@@ -15,3 +15,9 @@ This is a paragraph in a block code
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+|This|
+|----|
+|Is  |
+|A   |
+|Test|
