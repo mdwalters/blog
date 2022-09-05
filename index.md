@@ -5,7 +5,9 @@
     <br>
     <a href="{{ post.url }}">{{ post.title }}</a>
     <br>
-    <small>{{ post.teaser }}</small>
+    {%- if post.teaser -%}
+      <small>{{ post.teaser }}</small>
+    {%- endif -%}
     </h3>
   {% endfor %}
 </ul>
