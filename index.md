@@ -7,6 +7,5 @@
     <br>
     <small>{{ post.teaser }}</small>
     </h3>
-    <br><br>
   {% endfor %}
 </ul>
