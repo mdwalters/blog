@@ -43,3 +43,6 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Emoji&display=swap" rel="stylesheet");
+font-family: 'Noto Emoji', sans-serif;
