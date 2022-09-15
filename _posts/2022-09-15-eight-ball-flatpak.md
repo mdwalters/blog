@@ -9,4 +9,4 @@ Well, it's that time, Eight Ball is being ported to Flatpak! It also has a icon 
 
 ---
 
-Side Note: Everytime I ask it if I should get a life, it says yes. Does my own app hate me?
+Everytime I ask it if I should get a life, it says yes. Does my own app hate me?
