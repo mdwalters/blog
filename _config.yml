@@ -11,6 +11,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 
+timezone: America/New_York
+
 defaults:
   - scope:
       path: ""
