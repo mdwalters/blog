@@ -1,6 +1,7 @@
 ---
 title: Egg, Inc. Debt Issues
 teaser: How research got me in this mess
+date: 2022-08-25 15:45
 tags:
   - games
 ---
