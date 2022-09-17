@@ -1,6 +1,7 @@
 ---
 title: The HP Chromebook x360 Reunion
 teaser: Yes, the exact one
+date: 2022-09-09 21:36
 tags:
   - life
   - chromebook
