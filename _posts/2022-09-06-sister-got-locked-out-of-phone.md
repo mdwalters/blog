@@ -1,6 +1,7 @@
 ---
 title: My Sister Locked Herself Out Of Her Phone
 teaser: We tried 55 times to figure it out
+date: 2022-09-06 20:26
 tags:
   - life
   - tech
