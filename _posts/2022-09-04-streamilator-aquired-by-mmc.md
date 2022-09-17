@@ -1,6 +1,7 @@
 ---
 title: Streamilator just became a Meower Media Co. Product!
 teaser: It even get's it's new home on the meower.org domain!
+date: 2022-09-04 00:32
 tags:
   - streamilator
   - meower
