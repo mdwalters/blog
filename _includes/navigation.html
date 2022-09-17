@@ -1,8 +1,9 @@
 <hr>
+
 <div class="post_navi">
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
-    <p><big>&lt;</big>{{ page.previous.title }}</p>
+    <p><big>&lt;</big> {{ page.previous.title }}</p>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_prev" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
@@ -11,11 +12,11 @@
   {%- endif -%}
   {%- if page.next.url -%}
   <a class="post_navi-item nav_next" href="{{ page.next.url }}" title="{{ page.next.title }}">
-    <p><big>&gt;</big>{{ page.next.title }}</p>
+    <p>{{ page.next.title }} <big>&gt;</big></p>
   </a>
   {%- else -%}
   <a class="post_navi-item nav_next" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
-    <p><big>&gt;</big>Blog Archive</p>
+    <p>Blog Archive <big>&gt;</big></p>
   </a>
   {%- endif -%}
 </div>
