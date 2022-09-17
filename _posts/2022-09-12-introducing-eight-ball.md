@@ -1,6 +1,7 @@
 ---
 title: Introducing... Eight Ball!
 teaser: A GTK app I made in my boredom
+date: 2022-09-12 04:01
 tags:
   - linux
   - tech
