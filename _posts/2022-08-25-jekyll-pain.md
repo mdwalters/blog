@@ -1,6 +1,7 @@
 ---
 title: Jekyll Pain
 teaser: The Pain of Jekyll
+date: 2022-08-25 04:45
 tags:
   - blog
   - pain
