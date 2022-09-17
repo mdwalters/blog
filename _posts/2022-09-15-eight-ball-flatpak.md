@@ -1,6 +1,7 @@
 ---
 title: Porting Eight Ball to Flatpak!
 teaser: ...And Flathub is making it hard for me to submit my app
+date: 2022-09-15 00:34
 tags:
   - tech
   - linux
