@@ -1,7 +1,7 @@
 ---
 title: A Student In My Class... Vapes
 teaser: He's not even the legal age to vape either
-date: 2022-09-19
+date: 2022-09-19 21:45
 tags:
 		- life
 ---
