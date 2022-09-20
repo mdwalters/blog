@@ -4,6 +4,7 @@ teaser: He's not even the legal age to vape either
 date: 2022-09-19 21:45
 tags:
   - life
+  - story
 ---
 Well, it's one of those school crazy school adventures again, one of my classmates, vape. No, I'm not assuming this, I him vape saw with my own eyes.
 
