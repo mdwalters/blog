@@ -5,6 +5,7 @@ date: 2022-09-16 23:31
 tags:
   - life
   - story
+  - school
 ---
 It was recess time, and as always, I went to sit on the college campus like benches, when I thought the benches were boring, so I walked to the field.
 
