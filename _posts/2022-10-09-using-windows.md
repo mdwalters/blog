@@ -4,6 +4,8 @@ teaser: I use Git Bash for uses other than Git because of this
 date: 2022-10-09 13:14
 tags:
   - life
+  - tech
+  - windows
 ---
 So... After a few days of using a Windows laptop, I think I'm used to it. Having tools like Git Bash helps me use a Linux terminal again
 
