@@ -1,7 +1,7 @@
 ---
 title: Getting Used to Windows
 teaser: I use Git Bash for uses other than Git because of this
-date: 2022-10-09 13:09
+date: 2022-10-09 13:14
 tags:
   - life
 ---
