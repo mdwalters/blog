@@ -1,7 +1,7 @@
 ---
 title: Installing Ubuntu on my Windows laptop!
 teaser: BTW, hello from Ubuntu live demo
-date: 2022-10-24 
+date: 2022-10-24 22:20
 tags:
   - tech
 ---
