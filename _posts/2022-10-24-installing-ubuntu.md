@@ -22,3 +22,7 @@ I then did a OEM install, and YAY, IT WORKED! But it's unbootable. Back to the l
 
 
 Now, as of writing, I'm in the live demo. And I did a fresh install of Ubuntu. And guess what? It succeeded! The result may be the same as the first time, so I'm not going to get my hopes up on this.
+
+
+
+Well, after some trying with Boot Repair, it finally worked!
