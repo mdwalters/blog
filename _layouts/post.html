@@ -6,9 +6,6 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title }} <small style="color: grey;">{% for tag in page.tags %}<span>{{ tag }} </span>{% endfor %}</small></h1>
-    {%- if page.teaser -%}
-      <h2 style="color: grey;">{{ page.teaser }}</h2>
-    {%- endif -%}
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%B %d, %Y at %H:%M" -%}
@@ -28,6 +25,8 @@ layout: default
     {{ content }}
   </div>
   
+  <script src="https://utteranc.es/client.js" repo="mdwalters/blog.mdwalters.ml" issue-term="title" label="comment" theme="preferred-color-scheme" crossorigin="anonymous" async> </script>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
