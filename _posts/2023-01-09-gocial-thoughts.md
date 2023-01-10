@@ -6,18 +6,9 @@ tags:
 While I was away, I had a few ideas for Gocial.
 
 ## Porting to Python and and including a API
-As what **[@oofy123](https://github.com/oofy123)** wanted, I'm planning on porting Gocial from TypeScript to Python. I could create a DB wrapper for [simple-json-db](https://www.npmjs.com/package/simple-json-db) so we can use the existing DB with ease.
-
-
-
-We started from JavaScript, to TypeScript, and now to TypeScript. Should be easy.
-
-
-
-
-I'm also going to drop WebSockets in Gocial in favor for a API. APIs rule!
+As what **[@oofy123](https://github.com/oofy123)** wanted, I'm planning on porting Gocial from TypeScript to Python. We started from JavaScript, to TypeScript, and now to TypeScript. Should be easy. We do need to port it from a JSON DB, which is insecure. I'm also going to drop WebSockets in Gocial in favor for a REST API. Trying to do it today just gave me more problems. Fun.
 ## Using communities instead of a home screen
-Gocial is now officially a Reddit rip-off!
+So you know group chats? How about we make those group chats public to everyone? That's where communities come in! It also has a simalar idea to subreddits.
 
 ---
 
