@@ -1,9 +1,5 @@
 <div class="container-fluid p-5 bg-primary text-white">
     <h1 class="display-1 text-center">M.D. Walters' Blog!</h1>
-    <span>
-        <a href="https://mdwalters.ml/"><i class="bi bi-house-door-fill"></i></a>
-        <a href="/feed.xml"><i class="bi bi-rss-fill"></i></a>
-    </span>
 </div>
 
 <div class="container m-3">
