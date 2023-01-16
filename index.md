@@ -1,3 +1,8 @@
+
+<div class="container-fluid p-5 bg-primary text-white">
+    <h1 class="display-1 text-center">M.D. Walters' Blog!</h1>
+</div>
+
 <div class="container m-3">
   {% for post in site.posts %}
     {%- unless post.hidden -%}
