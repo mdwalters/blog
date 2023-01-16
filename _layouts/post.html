@@ -2,22 +2,16 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="container-fluid bg-primary text-center post-header">
+    <header class="container-fluid p-5 bg-primary text-center text-light post-header">
         <h1 class="display-1 post-title p-name" itemprop="name headline">{{ page.title }}</h1>
         <small>
             {% for tag in page.tags %}
                 <span>{{ tag }} </span>
             {% endfor %}
         </small>
-        <p class="post-meta">
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                {%- assign date_format = site.minima.date_format | default: "%B %d, %Y" -%}
-                {{ page.date | date: date_format }}
-            </time>
-        </p>
     </header>
   
-    <div class="share-links">
+    <div class="container m-3 share-links">
         {% include sharelinks.html %}
     </div>
   
