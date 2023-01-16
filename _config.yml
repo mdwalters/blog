@@ -2,7 +2,7 @@ title: "M.D. Walters' Blog!"
 author: "M.D. Walters"
 description: "Inside the world of M.D."
 
-remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
 
 rss: rss
     
