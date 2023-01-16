@@ -3,7 +3,7 @@ layout: default
 title: Blog Archive
 ---
 <div class="container-fluid p-5 bg-primary text-white">
-    <h1 class="display-1 text-center">M.D. Walters' Blog Archives!</h1>
+    <h1 class="display-1 text-center"><a href="/" class="text-decoration-none text-light">M.D. Walters' Blog Archives!</a></h1>
 </div>
 
 <div class="container m-3">
