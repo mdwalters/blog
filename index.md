@@ -12,5 +12,6 @@
             </h2>
         {%- endunless -%}
     {% endfor %}
+    <br>
     <h2><a href="/archive">Blog Archive</a></h2>
 </div>
