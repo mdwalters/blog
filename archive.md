@@ -2,11 +2,17 @@
 layout: default
 title: Blog Archive
 ---
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y at %H:%M" }} - <b>{{ post.title }}</b></a></li>
+<div class="container-fluid p-5 bg-primary text-white">
+    <h1 class="display-1 text-center">M.D. Walters' Blog Archives!</h1>
+</div>
+
+<div class="container m-3">
+    {% for tag in site.tags %}
+        <h3>{{ tag[0] }}</h3>
+        <ul>
+            {% for post in tag[1] %}
+                <li><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - <b>{{ post.title }}</b></a></li>
+            {% endfor %}
+        </ul>
     {% endfor %}
-  </ul>
-{% endfor %}
+</div>
