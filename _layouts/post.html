@@ -6,7 +6,7 @@ layout: default
         <h1 class="display-1 post-title p-name" itemprop="name headline"><a href="/" class="text-decoration-none text-light">{{ page.title }}</a></h1>
         <h4>
             {% for tag in page.tags %}
-                <span>{{ tag }} </span>
+                <span class="badge bg-light text-primary">{{ tag }} </span>
             {% endfor %}
         </h4>
     </header>

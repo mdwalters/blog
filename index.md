@@ -2,7 +2,7 @@
     <h1 class="display-1 text-center">M.D. Walters' Blog!</h1>
 </div>
 
-<div class="container m-3">
+<div class="m-3">
     {% for post in site.posts %}
         {%- unless post.hidden -%}
             <h2>
@@ -12,7 +12,6 @@
             </h2>
         {%- endunless -%}
     {% endfor %}
-    <br>
-    <br>
+    <hr>
     <h2><a href="/archive">Blog Archive</a></h2>
 </div>

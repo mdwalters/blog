@@ -6,7 +6,7 @@ title: Blog Archive
     <h1 class="display-1 text-center"><a href="/" class="text-decoration-none text-light">M.D. Walters' Blog Archives!</a></h1>
 </div>
 
-<div class="container m-3">
+<div class="m-3">
     {% for tag in site.tags %}
         <h3>{{ tag[0] }}</h3>
         <ul>
